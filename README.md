@@ -1,1 +1,1 @@
-# Project: Case Study on StartUp Comapny
+# Project: Case Study on StartUp Company
